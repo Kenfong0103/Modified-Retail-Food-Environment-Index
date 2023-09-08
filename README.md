@@ -1,5 +1,6 @@
 # Modified-Retail-Food-Environment-Index
 My Data Wrangling Group Project
+
 ![giphy](https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/0138679c-19e6-44ce-80e6-d3a80056b66c)
 
 The modified retail food environment index table is part of a series of indicators in 
